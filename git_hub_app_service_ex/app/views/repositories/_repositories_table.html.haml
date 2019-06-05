@@ -1,0 +1,15 @@
+.row
+  .col-md-12
+    %table.table.table-condensed.center-content.margin_table
+      %thead
+        %tr
+          %th= t('id')
+          %th= t('name')
+
+
+        %tbody
+          %tr
+            - parsed_repositories.each do |pr|
+              %tr
+                %td= pr['id']
+                %td= pr['name']

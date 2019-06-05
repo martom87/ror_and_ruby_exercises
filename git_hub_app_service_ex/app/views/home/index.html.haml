@@ -1,0 +1,7 @@
+%h3 Search Repository
+
+= form_tag root_path, class: "span5 for-search", method: "get" do
+  %input.search-query(name="search_term" type="text" placeholder="Search for repositories here")
+  %button.btn.btn-default(type="submit") Search
+= link_to 'PRODUCTOS', user_repositories_path(@parsed_repositories), class: 'button alt'
+

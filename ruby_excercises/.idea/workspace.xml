@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37ae6406-bbf8-4698-ba8d-472ebfb780b9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ruby_excercises@coffe.rcov" NAME="coffe Coverage Results" MODIFIED="1549917239319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/design_patterns/decorator" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@converter.rcov" NAME="converter Coverage Results" MODIFIED="1559721588683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daft_code_recruitment" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@ecosystem.rcov" NAME="ecosystem Coverage Results" MODIFIED="1548091722995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/design_patterns/abstract_factory" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@buzz_fizz.rcov" NAME="buzz_fizz Coverage Results" MODIFIED="1550057502052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@paresr2.rcov" NAME="paresr2 Coverage Results" MODIFIED="1558554815326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser_task" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@method_excersise.rcov" NAME="method_excersise Coverage Results" MODIFIED="1550005731721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@some_animal__1_.rcov" NAME="some_animal (1) Coverage Results" MODIFIED="1550059949180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@citizen.rcov" NAME="citizen Coverage Results" MODIFIED="1548769061903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/self" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@conditional.rcov" NAME="conditional Coverage Results" MODIFIED="1549975274735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@hash_remark.rcov" NAME="hash_cheat Coverage Results" MODIFIED="1559314695035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daft_code_recruitment" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@fizz_buzz.rcov" NAME="fizz_buzz Coverage Results" MODIFIED="1550056457064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@hasze_i_arraye.rcov" NAME="hasze_i_arraye Coverage Results" MODIFIED="1550050493777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@hash_cheat.rcov" NAME="hash_cheat Coverage Results" MODIFIED="1559425101131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daft_code_recruitment" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@sorter.rcov" NAME="sorter Coverage Results" MODIFIED="1548073536601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/sorting" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@some_animal.rcov" NAME="some_animal Coverage Results" MODIFIED="1550131023410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru/animals" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@various_ex.rcov" NAME="various_ex Coverage Results" MODIFIED="1549960582412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@hasze.rcov" NAME="hasze_i_arraye Coverage Results" MODIFIED="1550003120036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@parser3.rcov" NAME="parser3 Coverage Results" MODIFIED="1558554779685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser_task" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@parser.rcov" NAME="parser Coverage Results" MODIFIED="1558728418668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser_task" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@bird.rcov" NAME="some_kind_animal Coverage Results" MODIFIED="1550059343056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru/animals" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@forest_organism_factory.rcov" NAME="forest_organism_factory Coverage Results" MODIFIED="1548091691426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/design_patterns/abstract_factory" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@person.rcov" NAME="person Coverage Results" MODIFIED="1550053035838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/constructors" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@burger.rcov" NAME="burger Coverage Results" MODIFIED="1549917111438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/design_patterns/decorator" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@abstract_factory.rcov" NAME="abstract_factory Coverage Results" MODIFIED="1548113325603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/design_patterns/abstract_factory" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@some_mammals.rcov" NAME="some_mammals Coverage Results" MODIFIED="1550089352955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netguru/animals" MODULE_NAME="ruby_excercises" />
+    <SUITE FILE_PATH="coverage/ruby_excercises@animal.rcov" NAME="animal Coverage Results" MODIFIED="1550060676272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/constructors" MODULE_NAME="ruby_excercises" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2139885709">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="49" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="10" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="1" />
+          <entry key="parser3" value="1" />
+          <entry key="rb" value="60" />
+          <entry key="varius" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Ruby" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="rb" value="13079" />
+          <entry key="varius" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Ruby" value="13079" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ruby_excercises" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parser_task/parser3.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parser_task/paresr2.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parser_task/parser.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daft_code_recruitment/price.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daft_code_recruitment/converter.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daft_code_recruitment/hash_cheat.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/animal.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/lion.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/mammal.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/plant.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/tree.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/palm.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/forest_organism_factory.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/ecosystem.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/abstract_factory/abstract_factory.rb" />
+        <option value="$PROJECT_DIR$/self/person.rb" />
+        <option value="$PROJECT_DIR$/variables_scope/human.rb" />
+        <option value="$PROJECT_DIR$/self/citizen.rb" />
+        <option value="$PROJECT_DIR$/self/animal.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/decorator/coffe.rb" />
+        <option value="$PROJECT_DIR$/design_patterns/decorator/burger.rb" />
+        <option value="$PROJECT_DIR$/netguru/varius" />
+        <option value="$PROJECT_DIR$/netguru/various_ex.rb" />
+        <option value="$PROJECT_DIR$/netguru/hasze.rb" />
+        <option value="$PROJECT_DIR$/netguru/method_excersise.rb" />
+        <option value="$PROJECT_DIR$/netguru/hasze_i_arraye.rb" />
+        <option value="$PROJECT_DIR$/constructors/person.rb" />
+        <option value="$PROJECT_DIR$/netguru/conditional.rb" />
+        <option value="$PROJECT_DIR$/netguru/fizz_buzz.rb" />
+        <option value="$PROJECT_DIR$/netguru/buzz_fizz.rb" />
+        <option value="$PROJECT_DIR$/netguru/animals/animal.rb" />
+        <option value="$PROJECT_DIR$/netguru/some_animal.rb" />
+        <option value="$PROJECT_DIR$/netguru/animals/some_kind_animal.rb" />
+        <option value="$PROJECT_DIR$/constructors/animal.rb" />
+        <option value="$PROJECT_DIR$/netguru/animals/some_mammals.rb" />
+        <option value="$PROJECT_DIR$/netguru/animals/some_animal.rb" />
+        <option value="$PROJECT_DIR$/parser_task/string.rb" />
+        <option value="$PROJECT_DIR$/parser_task/paresr2.rb" />
+        <option value="$PROJECT_DIR$/parser_task/parser3.rb" />
+        <option value="$PROJECT_DIR$/parser_task/parser.rb" />
+        <option value="$PROJECT_DIR$/daft_code_recruitment/price.rb" />
+        <option value="$PROJECT_DIR$/daft_code_recruitment/hash_remark.rb" />
+        <option value="$PROJECT_DIR$/daft_code_recruitment/hash_cheat.rb" />
+        <option value="$PROJECT_DIR$/daft_code_recruitment/converter.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="714" />
+    <option name="y" value="214" />
+    <option name="width" value="1793" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ruby_excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_excercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby_excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="daft_code_recruitment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby_excercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby_excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="parser_task" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rorlevelup2019" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/parser_task" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/netguru" />
+      <recent name="$PROJECT_DIR$/netguru/animals" />
+      <recent name="$PROJECT_DIR$/algorithms" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.converter">
+    <configuration name="converter" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby_excercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/daft_code_recruitment" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/daft_code_recruitment/converter.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hash_cheat" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby_excercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/daft_code_recruitment" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/daft_code_recruitment/hash_cheat.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paresr2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby_excercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/parser_task" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/parser_task/paresr2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parser" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby_excercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/parser_task" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/parser_task/parser.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parser3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby_excercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/parser_task" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/parser_task/parser3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.parser" />
+      <item itemvalue="Ruby.paresr2" />
+      <item itemvalue="Ruby.parser3" />
+      <item itemvalue="Ruby.converter" />
+      <item itemvalue="Ruby.hash_cheat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.converter" />
+        <item itemvalue="Ruby.hash_cheat" />
+        <item itemvalue="Ruby.parser" />
+        <item itemvalue="Ruby.paresr2" />
+        <item itemvalue="Ruby.parser3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37ae6406-bbf8-4698-ba8d-472ebfb780b9" name="Default Changelist" comment="" />
+      <created>1548073397164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548073397164</updated>
+      <workItem from="1548073399090" duration="2213000" />
+      <workItem from="1548090015803" duration="1577000" />
+      <workItem from="1548112442365" duration="1219000" />
+      <workItem from="1548149471176" duration="599000" />
+      <workItem from="1548176502709" duration="32000" />
+      <workItem from="1548184609056" duration="442000" />
+      <workItem from="1548185158621" duration="810000" />
+      <workItem from="1548187567540" duration="642000" />
+      <workItem from="1548279219739" duration="19000" />
+      <workItem from="1548540688991" duration="1597000" />
+      <workItem from="1548623248127" duration="599000" />
+      <workItem from="1548709297446" duration="1835000" />
+      <workItem from="1548768082101" duration="2288000" />
+      <workItem from="1548795897141" duration="5402000" />
+      <workItem from="1548847985238" duration="1251000" />
+      <workItem from="1548886656643" duration="1887000" />
+      <workItem from="1549047043043" duration="15458000" />
+      <workItem from="1549207171137" duration="599000" />
+      <workItem from="1549287258776" duration="1237000" />
+      <workItem from="1549396072105" duration="3030000" />
+      <workItem from="1549485263568" duration="1174000" />
+      <workItem from="1549575241203" duration="740000" />
+      <workItem from="1549577514450" duration="1215000" />
+      <workItem from="1549579762167" duration="1041000" />
+      <workItem from="1549604734400" duration="3000" />
+      <workItem from="1549661683092" duration="1423000" />
+      <workItem from="1549665361540" duration="975000" />
+      <workItem from="1549704277797" duration="599000" />
+      <workItem from="1549720269327" duration="599000" />
+      <workItem from="1549746067305" duration="1064000" />
+      <workItem from="1549789305107" duration="642000" />
+      <workItem from="1549813614133" duration="615000" />
+      <workItem from="1549872409050" duration="447000" />
+      <workItem from="1549888606989" duration="33000" />
+      <workItem from="1549915291771" duration="1472000" />
+      <workItem from="1549958908120" duration="15586000" />
+      <workItem from="1549997393104" duration="5147000" />
+      <workItem from="1550044645738" duration="14401000" />
+      <workItem from="1550089049965" duration="1513000" />
+      <workItem from="1550130924477" duration="742000" />
+      <workItem from="1550162093339" duration="598000" />
+      <workItem from="1550238687099" duration="638000" />
+      <workItem from="1550308267198" duration="613000" />
+      <workItem from="1551911913792" duration="729000" />
+      <workItem from="1557261171899" duration="13070000" />
+      <workItem from="1557345591822" duration="6460000" />
+      <workItem from="1557427089192" duration="7881000" />
+      <workItem from="1557479181956" duration="287000" />
+      <workItem from="1558728196096" duration="96000" />
+      <workItem from="1558728400742" duration="269000" />
+      <workItem from="1559289368864" duration="8362000" />
+      <workItem from="1559423921936" duration="12732000" />
+      <workItem from="1559640003204" duration="1000000" />
+      <workItem from="1559664818355" duration="782000" />
+      <workItem from="1559721734140" duration="915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146599000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49871135" visible="true" weight="0.4714997" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50128865" side_tool="true" weight="0.31820697" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.88267845" weight="0.112432435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28432432" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2508108" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.11732153" side_tool="true" weight="0.13297297" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002767" side_tool="true" weight="0.15567568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="4" side_tool="true" weight="0.32982844" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49871135" visible="true" weight="0.39346984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50128865" side_tool="true" weight="0.31820697" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34702703" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28432432" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.09081081" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" x="0" y="0" width="413" height="855" id="Documentation" order="4" side_tool="true" weight="0.32982844" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/constructors/citizen.rb</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/parser_task/paresr2.rb</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/lion.rb" />
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/plant.rb" />
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/tree.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/palm.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables_scope/human.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/ecosystem.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/decorator/burger.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/decorator/coffe.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-debug-ide-0.7.0.beta6/lib/ruby-debug-ide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/abstract_factory.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/varius" />
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs25/array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="1017" column="8" selection-start-line="1017" selection-start-column="8" selection-end-line="1017" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/share/rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/rubygems/core_ext/kernel_require.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/forest_organism_factory.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_patterns/abstract_factory/mammal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/animals/some_kind_animal.rb" />
+    <entry file="file://$PROJECT_DIR$/constructors/person.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/animals/some_mammals.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/animals/some_animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constructors/animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/buzz_fizz.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constructors/citizen.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser_task/string.rb" />
+    <entry file="file://$PROJECT_DIR$/netguru/conditional.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="2" selection-start-column="1" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/fizz_buzz.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs25/enumerable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="832" column="8" selection-start-line="832" selection-start-column="8" selection-end-line="832" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser_task/parser3" />
+    <entry file="file://$PROJECT_DIR$/netguru/hasze_i_arraye.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser_task/log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/iterators.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/some_animal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/various_ex.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/sorting/sorter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netguru/method_excersise.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser_task/parser3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser_task/paresr2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser_task/parser.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daft_code_recruitment/price.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daft_code_recruitment/converter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daft_code_recruitment/hash_cheat.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
