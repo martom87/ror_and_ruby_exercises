@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="" />
+    <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_hub_app_service_ex/tmp/pids/server.pid" beforeDir="false" afterPath="$PROJECT_DIR$/git_hub_app_service_ex/tmp/pids/server.pid" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ror_and_ruby_exercises@full_name.rcov" NAME="full_name Coverage Results" MODIFIED="1559730699023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby-101-challenges/01-Full-name/lib" MODULE_NAME="ror_and_ruby_exercises" />
+    <SUITE FILE_PATH="coverage/ror_and_ruby_exercises@crud_example.rcov" NAME="crud_example Coverage Results" MODIFIED="1559730983486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rorlevelup2019/lecture_1" MODULE_NAME="ror_and_ruby_exercises" />
+    <SUITE FILE_PATH="coverage/ror_and_ruby_exercises@palindrome.rcov" NAME="palindrome Coverage Results" MODIFIED="1559730735233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby-101-challenges/03-Palindrome-word/lib" MODULE_NAME="ror_and_ruby_exercises" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1040521095">
@@ -18,32 +28,128 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Gemfile" value="1" />
           <entry key="Rakefile" value="1" />
           <entry key="gitignore" value="2" />
-          <entry key="pid" value="1" />
-          <entry key="rb" value="4" />
+          <entry key="haml" value="3" />
+          <entry key="lock" value="1" />
+          <entry key="md" value="1" />
+          <entry key="pid" value="3" />
+          <entry key="rb" value="25" />
+          <entry key="sqlite3" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Ruby" value="5" />
+          <entry key="Haml" value="3" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Ruby" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="haml" value="8" />
+          <entry key="rb" value="348" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Haml" value="8" />
+          <entry key="Ruby" value="348" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/tmp/pids/server.pid">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/crud_example.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-end-column="5" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/application_record.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605114005_create_samurais.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605112108_create_clans.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/schema.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="58" selection-start-line="21" selection-start-column="2" selection-end-line="29" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/test.sqlite3">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/development.sqlite3">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +158,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/git_hub_app_service_ex/app/views/home/index.html.haml" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605112108_create_clans.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605114005_create_samurais.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb" />
       </list>
     </option>
   </component>
@@ -86,6 +197,58 @@
               <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -111,6 +274,74 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Ruby.crud_example">
+    <configuration name="crud_example" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ror_and_ruby_exercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/rorlevelup2019/lecture_1" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/rorlevelup2019/lecture_1/crud_example.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="full_name" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ror_and_ruby_exercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/ruby-101-challenges/01-Full-name/lib" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby-101-challenges/01-Full-name/lib/full_name.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrome" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ror_and_ruby_exercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/ruby-101-challenges/03-Palindrome-word/lib" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby-101-challenges/03-Palindrome-word/lib/palindrome.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.full_name" />
+      <item itemvalue="Ruby.palindrome" />
+      <item itemvalue="Ruby.crud_example" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.crud_example" />
+        <item itemvalue="Ruby.palindrome" />
+        <item itemvalue="Ruby.full_name" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -122,15 +353,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559727837649</updated>
-      <workItem from="1559727839671" duration="1570000" />
+      <workItem from="1559727839671" duration="9615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1570000" />
+    <option name="totallyTimeSpent" value="9615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
@@ -138,11 +370,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -169,9 +401,6 @@
     <entry file="file://$PROJECT_DIR$/ruby-101-challenges/02-Age-next-year/lib/age_next_year.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ruby-101-challenges/03-Palindrome-word/lib/palindrome.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ruby-101-challenges/03-Palindrome-word/spec/palindrome_spec.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -185,10 +414,140 @@
     <entry file="file://$PROJECT_DIR$/ruby-101-challenges/03-Palindrome-word/Rakefile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/views/repositories/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/views/repositories/_repositories_table.html.haml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/views/home/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby-101-challenges/04-Merge-and-sort-array/lib/merge_and_sort_array.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby-101-challenges/03-Palindrome-word/lib/palindrome.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby-101-challenges/02-Age-next-year/spec/age_next_year_spec.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby-101-challenges/01-Full-name/lib/full_name.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/puma-3.12.1/lib/puma/binder.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/tmp/pids/server.pid">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/services/git_hub_service.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/controllers/repositories_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/tmp/pids/server.pid">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/test.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/development.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/crud_example.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605112108_create_clans.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/application_record.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="58" selection-start-line="21" selection-start-column="2" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605114005_create_samurais.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
