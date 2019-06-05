@@ -1,0 +1,12 @@
+.row
+  .col-md-12
+    %table.table.table-condensed.center-content.margin_table
+      %thead
+        %tr
+          %th= t('name')
+
+        %tbody
+          %tr
+            - clans.each do |c|
+              %tr
+                %td= c.name
