@@ -1,0 +1,15 @@
+
+<div class="container-body">
+  <div class="row">
+    <div class="col-12">
+      <% @clans.each do |clan| %>
+        <ul class="clan-container">
+          <li>
+            <div class="row-item event-item"><%= link_to clan.name, clan_samurais_path(clan) %>
+            </div>
+        </ul>
+      <% end %>
+    </div>
+  </div>
+</div>
+
