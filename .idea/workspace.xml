@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
           <entry key="md" value="2" />
           <entry key="pid" value="6" />
           <entry key="png" value="1" />
-          <entry key="rb" value="58" />
+          <entry key="rb" value="59" />
           <entry key="rnc" value="1" />
           <entry key="scss" value="4" />
           <entry key="sqlite3" value="2" />
@@ -54,7 +53,7 @@
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="RHTML" value="3" />
           <entry key="RNG Compact" value="1" />
-          <entry key="Ruby" value="63" />
+          <entry key="Ruby" value="64" />
           <entry key="SCSS" value="4" />
         </counts>
       </usages-collector>
@@ -63,7 +62,7 @@
           <entry key="Gemfile" value="7" />
           <entry key="erb" value="63" />
           <entry key="haml" value="245" />
-          <entry key="rb" value="1278" />
+          <entry key="rb" value="1390" />
           <entry key="scss" value="16" />
         </counts>
       </usages-collector>
@@ -71,7 +70,7 @@
         <counts>
           <entry key="Haml" value="245" />
           <entry key="RHTML" value="63" />
-          <entry key="Ruby" value="1285" />
+          <entry key="Ruby" value="1397" />
           <entry key="SCSS" value="16" />
         </counts>
       </usages-collector>
@@ -79,11 +78,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -94,6 +93,15 @@
             <state split_layout="SPLIT">
               <first_editor />
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -122,15 +130,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -202,8 +201,8 @@
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" />
       </list>
     </option>
   </component>
@@ -423,7 +422,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34215000" />
+    <option name="totallyTimeSpent" value="35859000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -670,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -719,13 +711,6 @@
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -733,10 +718,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
