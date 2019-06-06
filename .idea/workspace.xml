@@ -4,9 +4,6 @@
     <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +20,11 @@
     <session id="1040521095">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,10 +36,10 @@
           <entry key="haml" value="24" />
           <entry key="js" value="1" />
           <entry key="lock" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="pid" value="6" />
           <entry key="png" value="1" />
-          <entry key="rb" value="55" />
+          <entry key="rb" value="58" />
           <entry key="rnc" value="1" />
           <entry key="scss" value="4" />
           <entry key="sqlite3" value="2" />
@@ -52,11 +50,11 @@
           <entry key="Haml" value="24" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="RHTML" value="3" />
           <entry key="RNG Compact" value="1" />
-          <entry key="Ruby" value="60" />
+          <entry key="Ruby" value="63" />
           <entry key="SCSS" value="4" />
         </counts>
       </usages-collector>
@@ -65,7 +63,7 @@
           <entry key="Gemfile" value="7" />
           <entry key="erb" value="63" />
           <entry key="haml" value="245" />
-          <entry key="rb" value="1173" />
+          <entry key="rb" value="1278" />
           <entry key="scss" value="16" />
         </counts>
       </usages-collector>
@@ -73,48 +71,41 @@
         <counts>
           <entry key="Haml" value="245" />
           <entry key="RHTML" value="63" />
-          <entry key="Ruby" value="1180" />
+          <entry key="Ruby" value="1285" />
           <entry key="SCSS" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/home_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" selection-start-line="3" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/crud_example.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/clans_controller.rb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -208,11 +199,11 @@
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/home/index.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/config/routes.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" />
       </list>
     </option>
   </component>
@@ -239,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,41 +298,17 @@
               <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
               <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="clans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="samurais" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_teamup" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
@@ -450,11 +418,12 @@
       <workItem from="1559727839671" duration="9615000" />
       <workItem from="1559738808382" duration="6068000" />
       <workItem from="1559757078594" duration="2518000" />
+      <workItem from="1559818116979" duration="1187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32537000" />
+    <option name="totallyTimeSpent" value="34215000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -467,8 +436,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -517,13 +487,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/tmp/pids/server.pid" />
-    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/services/git_hub_service.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/controllers/repositories_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -700,13 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -714,10 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml">
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="360">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -735,10 +691,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -749,17 +705,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-end-line="4" />
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/clans_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
