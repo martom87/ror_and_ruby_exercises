@@ -3,7 +3,7 @@ class SamuraisController < ApplicationController
   before_action :set_clan, only: %i[index]
 
   def index
-    @samurais = Samurai.all
+    @samurais = @clan.samurais
   end
 
   private
