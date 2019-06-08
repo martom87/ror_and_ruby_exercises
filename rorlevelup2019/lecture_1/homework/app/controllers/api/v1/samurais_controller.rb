@@ -19,6 +19,10 @@ module Api
         render json: @samurais.to_json(only: %w[id name armor])
       end
 
+      def update
+
+      end
+
       def destroy
         @samurai.destroy!
         head 204
