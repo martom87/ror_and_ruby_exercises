@@ -1,4 +1,5 @@
 class Samurai < ApplicationRecord
+  paginates_per 5
   belongs_to :clan
 
   scope :death, -> {where('died is NOT NULL')}
