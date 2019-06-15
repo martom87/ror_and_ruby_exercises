@@ -10,7 +10,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_06_05_114005) do
+ActiveRecord::Schema.define(version: 2019_06_15_205738) do
+
+  create_table "buildings", force: :cascade do |t|
+    t.string "name"
+    t.string "type", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "clans", force: :cascade do |t|
     t.string "name", default: "", null: false
@@ -18,7 +25,19 @@ ActiveRecord::Schema.define(version: 2019_06_05_114005) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "samurais", force: :cascade do |t|
+  create_table "mercenaries", force: :cascade do |t|
+    t.string "name"
+    t.integer "experience"
+    t.string "preferred_weapon_kind"
+    t.datetime "available_from"
+    t.integer "price"
+    t.integer "warrior_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["warrior_id"], name: "index_mercenaries_on_warrior_id", unique: true
+  end
+
+  create_table "warriors", force: :cascade do |t|
     t.string "name", default: "", null: false
     t.integer "battles_number", default: 0, null: false
     t.integer "armor", default: 0, null: false
@@ -27,7 +46,23 @@ ActiveRecord::Schema.define(version: 2019_06_05_114005) do
     t.integer "clan_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["clan_id"], name: "index_samurais_on_clan_id"
+    t.string "type", default: "Warriors::Samurai", null: false
+    t.integer "buildings_id"
+    t.string "preferred_weapon_kind"
+    t.index ["buildings_id"], name: "index_warriors_on_buildings_id"
+    t.index ["clan_id"], name: "index_warriors_on_clan_id"
+    t.index ["name"], name: "index_warriors_on_name", unique: true, where: "died IS NULL"
+  end
+
+  create_table "weapons", force: :cascade do |t|
+    t.integer "warrior_id"
+    t.integer "range"
+    t.integer "damage"
+    t.string "kind"
+    t.string "type", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["warrior_id"], name: "index_weapons_on_warrior_id"
   end
 
 end

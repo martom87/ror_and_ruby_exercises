@@ -1,5 +1,4 @@
-class Samurai < ApplicationRecord
-  paginates_per 5
+class Warrior < ApplicationRecord
   belongs_to :clan
 
   scope :death, -> {where('died is NOT NULL')}
@@ -9,5 +8,4 @@ class Samurai < ApplicationRecord
   validates :battles_number, presence: true
   validates :enrolled, presence: true
   validates :armor, inclusion: 0..1000
-
 end

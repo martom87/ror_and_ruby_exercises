@@ -3,7 +3,7 @@ class SamuraisController < ApplicationController
   before_action :set_clan, only: %i[index]
 
   def index
-    @samurais = @clan.samurais
+    @samurais = @clan.warriors
  #   @samurais.page(2).per(50).padding(3)
   end
 

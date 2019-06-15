@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="" />
+    <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warrior.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warriors/samurai.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205826_add_clan_counter.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +39,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="8" />
+          <entry key="Gemfile" value="9" />
           <entry key="Rakefile" value="1" />
           <entry key="_samurais_table2" value="1" />
           <entry key="coffee" value="2" />
-          <entry key="erb" value="14" />
+          <entry key="erb" value="16" />
           <entry key="gitignore" value="2" />
           <entry key="haml" value="29" />
           <entry key="js" value="6" />
@@ -41,7 +51,7 @@
           <entry key="md" value="7" />
           <entry key="pid" value="6" />
           <entry key="png" value="1" />
-          <entry key="rb" value="79" />
+          <entry key="rb" value="154" />
           <entry key="rnc" value="1" />
           <entry key="scss" value="9" />
           <entry key="sqlite3" value="2" />
@@ -56,9 +66,9 @@
           <entry key="JavaScript" value="6" />
           <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="RHTML" value="14" />
+          <entry key="RHTML" value="16" />
           <entry key="RNG Compact" value="1" />
-          <entry key="Ruby" value="88" />
+          <entry key="Ruby" value="164" />
           <entry key="SCSS" value="9" />
           <entry key="TypeScript" value="1" />
           <entry key="yarn.lock" value="1" />
@@ -69,7 +79,7 @@
           <entry key="Gemfile" value="13" />
           <entry key="erb" value="680" />
           <entry key="haml" value="299" />
-          <entry key="rb" value="1525" />
+          <entry key="rb" value="1795" />
           <entry key="scss" value="16" />
         </counts>
       </usages-collector>
@@ -77,7 +87,7 @@
         <counts>
           <entry key="Haml" value="299" />
           <entry key="RHTML" value="680" />
-          <entry key="Ruby" value="1538" />
+          <entry key="Ruby" value="1808" />
           <entry key="SCSS" value="16" />
         </counts>
       </usages-collector>
@@ -86,40 +96,86 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_3/homework/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/seeds.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190405073127_change_samurais_to_warriors.rb">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="15">
+              <caret line="1" column="78" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615195236_rename_samurai_to_worriors.rb">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/clan.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warriors/samurai.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="83" selection-start-line="3" selection-start-column="83" selection-end-line="3" selection-end-column="83" />
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warrior.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/samurai.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warrior.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="18" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/clans/warriors_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-270" />
           </provider>
         </entry>
       </file>
@@ -148,7 +204,6 @@
         <option value="$PROJECT_DIR$/git_hub_app_service_ex/app/views/home/index.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605112108_create_clans.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605114005_create_samurais.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/home.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/shared/_common_table.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurai_controller.rb" />
@@ -174,12 +229,21 @@
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table2.html.erb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_card.html.erb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_table3.html.erb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/index.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_cards.html.erb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615195236_rename_samurai_to_worriors.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615204123_create_buildings.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205020_create_weapons.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205442_add_warrior_name_uniqueness.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205738_create_mercenaries.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205826_add_clan_counter.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warriors/samurai.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warrior.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb" />
       </list>
     </option>
   </component>
@@ -241,6 +305,61 @@
               <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
               <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="warriors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="samurais" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,25 +370,6 @@
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
               <item name="migrate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_3" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -307,7 +407,9 @@
               <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
               <item name="lecture_4" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="warriors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -316,7 +418,12 @@
               <item name="lecture_4" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="recruitment_task" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -445,7 +552,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57312000" />
+    <option name="totallyTimeSpent" value="61665000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -458,9 +565,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28002214" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28002214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -473,7 +579,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -509,121 +615,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/home/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/layouts/_footer.html.erb" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/db/migrate/20190314150921_create_clans_and_samurais.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/layouts/application.html.erb" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/comments.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/users.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/participations.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/config/manifest.js" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/javascripts/application.js" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/javascripts/cable.js" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/javascripts/comments.coffee" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/javascripts/participations.coffee" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/javascripts/skycons.js" />
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
-          <caret line="2966" column="4" selection-start-line="2966" selection-start-column="4" selection-end-line="2966" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/javascripts/skycons_choice.js" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/application.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/crud_example.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table2" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/home_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_table3.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_card.html.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -631,25 +622,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table2.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_cards.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/hussar.rb">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/buildings/stronghold.rb">
       <provider selected="true" editor-type-id="text-editor" />
@@ -660,15 +638,6 @@
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/weapons/musket.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/clan.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/mercenary.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warrior.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -676,9 +645,6 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/samurai.rb">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -694,9 +660,6 @@
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/building.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190314150921_create_clans_and_samurais.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_3/homework/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -708,7 +671,28 @@
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/yarn.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb">
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/mercenary.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/hussar.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/price.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/converter.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/mercenaries_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/weapon.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615195236_rename_samurai_to_worriors.rb">
@@ -718,10 +702,192 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615204123_create_buildings.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190405084731_create_mercenaries.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190405073739_add_name_uniqueness_on_warriors.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="73" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190405073518_create_weapons.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190405073313_create_buildings.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190405073127_change_samurais_to_warriors.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190314150921_create_clans_and_samurais.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605112108_create_clans.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605114005_create_samurais.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205738_create_mercenaries.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205442_add_warrior_name_uniqueness.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205020_create_weapons.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190615205826_add_clan_counter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/migrate/20190405090544_add_counter_to_clans.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_card.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_cards.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/clans_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/clans/warriors_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/clan.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warrior.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/samurai.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warriors/samurai.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/warrior.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="78" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="78" />
         </state>
       </provider>
     </entry>
