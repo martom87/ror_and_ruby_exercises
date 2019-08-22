@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ruby_excercises/rozkminy/reverse_array_iteration_manualy.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ror_and_ruby_exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ror_and_ruby_exercises.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,7 @@
     <SUITE FILE_PATH="coverage/ror_and_ruby_exercises@full_name.rcov" NAME="full_name Coverage Results" MODIFIED="1559730699023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby-101-challenges/01-Full-name/lib" MODULE_NAME="ror_and_ruby_exercises" />
     <SUITE FILE_PATH="coverage/ror_and_ruby_exercises@crud_example.rcov" NAME="crud_example Coverage Results" MODIFIED="1559730983486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rorlevelup2019/lecture_1" MODULE_NAME="ror_and_ruby_exercises" />
     <SUITE FILE_PATH="coverage/ror_and_ruby_exercises@palindrome.rcov" NAME="palindrome Coverage Results" MODIFIED="1559730735233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby-101-challenges/03-Palindrome-word/lib" MODULE_NAME="ror_and_ruby_exercises" />
+    <SUITE FILE_PATH="coverage/ror_and_ruby_exercises@reverse_array_iteration_manualy.rcov" NAME="reverse_array_iteration_manualy Coverage Results" MODIFIED="1566479985187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ruby_excercises/rozkminy" MODULE_NAME="ror_and_ruby_exercises" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1040521095">
@@ -23,8 +25,9 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,30 +35,33 @@
           <entry key="Gemfile" value="4" />
           <entry key="Rakefile" value="1" />
           <entry key="erb" value="3" />
-          <entry key="gitignore" value="2" />
+          <entry key="gitignore" value="3" />
           <entry key="haml" value="24" />
+          <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="lock" value="1" />
-          <entry key="md" value="2" />
+          <entry key="md" value="7" />
           <entry key="pid" value="6" />
           <entry key="png" value="1" />
-          <entry key="rb" value="58" />
+          <entry key="rb" value="69" />
           <entry key="rnc" value="1" />
           <entry key="scss" value="4" />
           <entry key="sqlite3" value="2" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Haml" value="24" />
-          <entry key="Image" value="1" />
+          <entry key="Image" value="2" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Markdown" value="7" />
+          <entry key="PLAIN_TEXT" value="12" />
           <entry key="RHTML" value="3" />
           <entry key="RNG Compact" value="1" />
-          <entry key="Ruby" value="63" />
+          <entry key="Ruby" value="74" />
           <entry key="SCSS" value="4" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -79,17 +85,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/buildings/stronghold.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruby_excercises/daft_code_recruitment/converter.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
+        <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/reverse_array_iteration_manualy.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="493">
+              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/README.md">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/hussar.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/schedule.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_5/homework/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -99,67 +134,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/application_controller.rb">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/converter.rb">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/clans_controller.rb">
+        <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/price.rb">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/index.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -204,6 +185,7 @@
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" />
+        <option value="$PROJECT_DIR$/ruby_excercises/rozkminy/reverse_array_iteration_manualy.rb" />
       </list>
     </option>
   </component>
@@ -241,64 +223,13 @@
             <path>
               <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_excercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_1" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rorlevelup2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture_2" type="462c0819:PsiDirectoryNode" />
+              <item name="ruby_excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="rozkminy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,7 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cp_problems" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
@@ -336,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.crud_example">
+  <component name="RunManager" selected="Ruby.reverse_array_iteration_manualy">
     <configuration name="crud_example" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ror_and_ruby_exercises" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -391,13 +322,33 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="reverse_array_iteration_manualy" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ror_and_ruby_exercises" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/ruby_excercises/rozkminy" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ruby_excercises/rozkminy/reverse_array_iteration_manualy.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Ruby.full_name" />
       <item itemvalue="Ruby.palindrome" />
       <item itemvalue="Ruby.crud_example" />
+      <item itemvalue="Ruby.reverse_array_iteration_manualy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.reverse_array_iteration_manualy" />
         <item itemvalue="Ruby.crud_example" />
         <item itemvalue="Ruby.palindrome" />
         <item itemvalue="Ruby.full_name" />
@@ -419,11 +370,12 @@
       <workItem from="1559738808382" duration="6068000" />
       <workItem from="1559757078594" duration="2518000" />
       <workItem from="1559818116979" duration="1187000" />
+      <workItem from="1566421087629" duration="4920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34215000" />
+    <option name="totallyTimeSpent" value="39135000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -436,9 +388,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -487,80 +438,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/application_record.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605112108_create_clans.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="58" selection-start-line="21" selection-start-column="2" selection-end-line="29" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/test.sqlite3">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/development.sqlite3">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605114005_create_samurais.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="15" selection-start-line="17" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/views/repositories/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/views/repositories/_repositories_table.html.haml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/new.html.haml" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/shared/_common_table.html.haml" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/home.rb" />
     <entry file="file://$PROJECT_DIR$/git_hub_app_service_ex/app/views/home/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -649,13 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/tmp/pids/server.pid">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/tmp/pids/server.pid" />
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/crud_example.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
@@ -670,17 +541,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="285">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/clans_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -693,15 +584,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="238">
           <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -713,30 +627,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/clans_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_3/homework/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/concerns/errors_handler.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/mercenaries_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/buildings/walls.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/buildings/stronghold.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/hussar.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/schedule.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_5/homework/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/converter.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/price.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby_excercises/daft_code_recruitment/converter.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/reverse_array_iteration_manualy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="493">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
