@@ -4,6 +4,7 @@ class SamuraisController < ApplicationController
 
   def index
     @samurais = @clan.samurais
+ #   @samurais.page(2).per(50).padding(3)
   end
 
   private

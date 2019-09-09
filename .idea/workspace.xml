@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc01b202-6f02-47f3-bed5-d88c0392c414" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ruby_excercises/rozkminy/binar.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby_excercises/rozkminy/blocks.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby_excercises/rozkminy/blocs_proc_lamdas_comparison.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby_excercises/rozkminy/empty.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby_excercises/rozkminy/palidrome_singleton.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby_excercises/rozkminy/palindorme.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,62 +30,34 @@
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.55" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="4" />
+          <entry key="Gemfile" value="8" />
           <entry key="Rakefile" value="1" />
-          <entry key="erb" value="3" />
-          <entry key="gitignore" value="3" />
-          <entry key="haml" value="24" />
-          <entry key="jpg" value="1" />
-          <entry key="js" value="1" />
-          <entry key="lock" value="1" />
-          <entry key="md" value="8" />
-          <entry key="pid" value="6" />
-          <entry key="png" value="1" />
-          <entry key="rb" value="76" />
+
           <entry key="rnc" value="1" />
-          <entry key="scss" value="4" />
+          <entry key="scss" value="9" />
           <entry key="sqlite3" value="2" />
-          <entry key="xml" value="1" />
+
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Haml" value="24" />
-          <entry key="Image" value="2" />
-          <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="8" />
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="RHTML" value="3" />
-          <entry key="RNG Compact" value="1" />
-          <entry key="Ruby" value="81" />
-          <entry key="SCSS" value="4" />
-          <entry key="XML" value="1" />
+
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="7" />
-          <entry key="erb" value="63" />
-          <entry key="haml" value="245" />
-          <entry key="rb" value="4460" />
+
           <entry key="scss" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Haml" value="245" />
-          <entry key="RHTML" value="63" />
-          <entry key="Ruby" value="4467" />
+
           <entry key="SCSS" value="16" />
         </counts>
       </usages-collector>
@@ -100,78 +66,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/palindorme.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/palidrome_singleton.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/blocks.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/blocs_proc_lamdas_comparison.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/binar.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/empty.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/schedule.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_5/homework/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/converter.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/price.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+
         </entry>
       </file>
     </leaf>
@@ -182,6 +106,12 @@
         <option value="Ruby Class Template" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>turbo</find>
+      <find>proto</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -194,10 +124,7 @@
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605112108_create_clans.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/db/migrate/20190605114005_create_samurais.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/clan.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/home.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/index.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/shared/_common_table.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurai_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clan_controller.rb" />
@@ -212,16 +139,19 @@
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/home/index.html.haml" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/config/routes.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" />
-        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" />
         <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb" />
-        <option value="$PROJECT_DIR$/ruby_excercises/rozkminy/reverse_array_iteration_manualy.rb" />
-        <option value="$PROJECT_DIR$/ruby_excercises/rozkminy/binar.rb" />
-        <option value="$PROJECT_DIR$/ruby_excercises/rozkminy/empty.rb" />
-        <option value="$PROJECT_DIR$/ruby_excercises/rozkminy/palindorme.rb" />
-        <option value="$PROJECT_DIR$/ruby_excercises/rozkminy/palidrome_singleton.rb" />
-        <option value="$PROJECT_DIR$/ruby_excercises/rozkminy/blocks.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/home/index.html.erb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table2.html.erb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurai_card.html.erb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/Gemfile" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/models/samurai.rb" />
+        <option value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb" />
+
       </list>
     </option>
   </component>
@@ -231,16 +161,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/git_hub_app_service_ex/package.json" />
+      <path value="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-34" />
-    <option name="y" value="616" />
-    <option name="width" value="1843" />
-    <option name="height" value="789" />
+
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -269,8 +200,7 @@
             <path>
               <item name="ror_and_ruby_exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ror_and_ruby_exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby_excercises" type="462c0819:PsiDirectoryNode" />
-              <item name="rozkminy" type="462c0819:PsiDirectoryNode" />
+
             </path>
           </expand>
           <select />
@@ -286,14 +216,14 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/shared" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app" />
       <recent name="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans" />
       <recent name="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais" />
       <recent name="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/home" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/shared" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -431,17 +361,12 @@
       <workItem from="1559738808382" duration="6068000" />
       <workItem from="1559757078594" duration="2518000" />
       <workItem from="1559818116979" duration="1187000" />
-      <workItem from="1566421087629" duration="7505000" />
-      <workItem from="1566498880109" duration="8947000" />
-      <workItem from="1566594185288" duration="1662000" />
-      <workItem from="1566642401797" duration="10000" />
-      <workItem from="1568020519280" duration="6982000" />
-      <workItem from="1568046116684" duration="248000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59569000" />
+
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -456,7 +381,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27670172" />
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -469,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -505,43 +430,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/tables.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.haml" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/channels/application_cable/connection.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clans_table.html.haml" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/images/baseball.png" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/config/manifest.js" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/comments.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/participations.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/users.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/assets/stylesheets/application.scss" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/home/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/channels/application_cable/channel.rb">
+
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/config/routes.rb">
@@ -551,207 +440,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/tmp/pids/server.pid" />
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/crud_example.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/home_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/clans_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+
     </entry>
     <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/app/controllers/clans_controller.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/clans_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/clans/_clan.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/views/samurais/_samurais_table.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/samurais_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/app/controllers/api/v1/samurais_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_1/homework/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_2/homework/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_3/homework/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/concerns/errors_handler.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/controllers/mercenaries_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/buildings/walls.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/buildings/stronghold.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_excercises/daft_code_recruitment/converter.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_4/homework/app/models/warriors/hussar.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/reverse_array_iteration_manualy.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/palindorme.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/palidrome_singleton.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/binar.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/empty.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/schedule.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/lecture_5/homework/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/converter.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rorlevelup2019/recruitment_task/price.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/blocks.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby_excercises/rozkminy/blocs_proc_lamdas_comparison.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+
     </entry>
   </component>
 </project>
